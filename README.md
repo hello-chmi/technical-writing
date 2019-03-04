@@ -1,5 +1,5 @@
 # technical-writing
-Here, you can view samples of my technical writing.
+Table of Contents
 
 <b>DoSomething</b><br>
 A report produced for NPO DoSomething.<p>
