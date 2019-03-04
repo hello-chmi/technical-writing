@@ -1,5 +1,4 @@
-# technical-writing
-Table of Contents
+# Table of Contents
 
 <b>DoSomething</b><br>
 A report produced for NPO DoSomething.<p>
